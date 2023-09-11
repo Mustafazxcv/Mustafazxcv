@@ -1,7 +1,9 @@
-<h3 align="center">I am Mustafa Mete. I studied management information systems. I am improving myself in closed-loop software development.</h3>
+<h1 align="center">Hi! I am Mustafa Mete.</h1>
+<h3 align="center">I studied management information systems. I am improving myself in closed-loop software development.</h3>
 
 ###
 </br>
+ <h1 align="center">My Skills</h1>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="18" />
@@ -21,8 +23,13 @@
 </div>
 
 ###
+ <h1 align="center">Social Media</h1>
 </br>
 <div align="center">
+  <a href="https://codepen.io/Mustafametex31" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Code Pen&logo=codepen&label=&color=F5460E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+  </a>
+  <div align="center">
   <a href="https://www.instagram.com/mustafa_mx31/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -40,33 +47,34 @@
   </a>
 </div>
 
+
 ###
 
 
 </br>
 </br>
-</br>
 
-
+ <h1 align="center">GitHub Stats</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mustafazxcv&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafazxcv&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
+</br>
+</br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafazxcv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <b>🔝 Top Contributed Repo</b>
-</p>
+</br>
+</br>
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Mustafazxcv&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
+
+</br>
+</br>
 
 <p align="center">
   <a href="https://visitcount.itsvg.in/api?id=Mustafazxcv&icon=0&color=0">
