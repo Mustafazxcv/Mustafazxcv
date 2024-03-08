@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I am Mustafa Mete.</h1>
+
 <h3 align="center">I studied management information systems. I am improving myself in back end development.</h3>
 
  <h1 align="center">Social Media</h1>
