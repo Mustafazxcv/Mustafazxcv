@@ -3,10 +3,6 @@
 
  <h1 align="center">Social Media</h1>
 </br>
-<div align="center">
-  <a href="https://codepen.io/Mustafametex31" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Code Pen&logo=codepen&label=&color=F5460E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
-  </a>
   <div align="center">
   <a href="https://www.instagram.com/mustafa_mx31/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
